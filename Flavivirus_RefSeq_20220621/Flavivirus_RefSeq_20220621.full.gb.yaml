@@ -1,0 +1,1671 @@
+--- !!perl/hash:VirusGenomeTab
+code:
+  1.1.1.1: NC_009026.2
+  1.2.1.1: NC_001477.1
+  1.2.2.1: NC_001474.2
+  1.2.3.1: NC_001475.2
+  1.2.4.1: NC_002640.1
+  1.2.5.1: NC_012533.1
+  1.3.1.1: NC_001437.1
+  1.3.2.1: NC_009942.1
+  1.3.2.2: NC_001563.2
+  1.3.3.1: NC_007580.2
+  1.3.6.1: NC_000943.1
+  1.3.7.1: NC_006551.1
+  1.3.8.1: NC_026623.1
+  1.3.9.1: NC_034018.1
+  1.4.1.1: NC_009029.2
+  1.4.2.1: NC_032088.1
+  1.5.1.1: NC_040776.1
+  1.5.16.1: NC_034151.1
+  1.5.2.1: NC_009028.2
+  1.5.3.1: NC_018705.3
+  1.5.4.1: NC_012534.1
+  1.5.5.1: NC_015843.2
+  1.6.1.1: NC_029055.1
+  1.6.2.1: NC_035889.1
+  1.6.2.2: NC_012532.1
+  1.7.2.1: NC_002031.1
+  1.7.3.1: NC_012735.1
+  1.7.4.1: NC_008719.1
+  1.8.1.1: NC_030289.1
+  1.8.2.1: NC_033725.1
+  1.8.3.1: NC_033693.1
+  1.8.4.1: NC_043110.1
+  1.8.5.1: NC_033699.1
+  1.8.6.1: NC_033697.1
+  1.8.7.1: NC_033698.1
+  1.8.8.1: NC_029054.2
+  2.1.1.1: NC_003690.1
+  2.1.10.1: NC_003687.1
+  2.1.11.1: NC_001672.1
+  2.1.12.1: NC_001809.1
+  2.1.13.1: NC_039218.1
+  2.1.14.1: NC_027709.1
+  2.1.6.1: NC_039219.1
+  2.1.7.1: NC_005062.1
+  2.1.9.1: NC_033723.1
+  2.2.1.1: NC_023424.1
+  2.2.2.1: NC_033721.1
+  2.2.3.1: NC_023439.1
+  2.2.4.1: NC_033726.1
+  2.3.1.1: NC_033724.1
+  3.1.1.1: NC_008718.1
+  3.1.2.1: NC_005039.1
+  3.1.3.1: NC_026624.1
+  3.2.1.1: NC_003676.1
+  3.2.3.1: NC_026620.1
+  3.2.4.1: NC_003635.1
+  3.3.4.1: NC_004119.1
+  3.3.5.1: NC_034007.1
+  3.3.6.1: NC_003675.1
+  3.4.1.1: NC_003996.1
+  4.1.1.1: NC_008604.2
+  4.1.10.1: NC_030400.1
+  4.1.11.1: NC_033694.1
+  4.1.12.1: NC_040682.1
+  4.1.13.1: NC_034242.1
+  4.1.14.1: NC_034017.1
+  4.1.15.1: NC_030290.1
+  4.1.18.1: NC_024299.2
+  4.1.2.1: NC_001564.2
+  4.1.20.1: NC_035187.1
+  4.1.21.1: NC_035118.1
+  4.1.23.1: NC_040645.1
+  4.1.3.1: NC_012932.1
+  4.1.4.1: NC_027817.1
+  4.1.5.1: NC_027819.1
+  4.1.6.1: NC_030401.1
+  4.1.7.1: NC_012671.1
+  4.1.8.1: NC_021069.1
+  4.1.9.1: NC_005064.1
+  4.2.1.1: NC_033715.1
+  4.2.11.1: NC_040788.1
+  4.2.14.1: NC_027999.1
+  4.2.2.1: NC_017086.1
+  4.2.4.1: NC_016997.1
+  4.2.7.1: NC_040610.1
+  4.2.8.1: NC_024017.1
+  4.2.9.1: NC_024805.1
+data:
+  NC_000943.1:
+    ab_c: MBFV
+    ab_g: JEVG
+    ab_v: MVEV
+    acc: NC_000943.1
+    country: NA
+    date: NA
+    description: Murray Valley encephalitis virus, complete genome.
+    host: NA
+    isolate: NA
+    len3: '614'
+    len5: '95'
+    lenC: '10305'
+    nrcode: 1.3.6.1
+    path: MBFV/JEVG/MVEV
+    scientific_name: Murray Valley encephalitis virus
+    strain: NA
+    taxid: '11079'
+  NC_001437.1:
+    ab_c: MBFV
+    ab_g: JEVG
+    ab_v: JEV
+    acc: NC_001437.1
+    country: NA
+    date: NA
+    description: Japanese encephalitis virus, genome.
+    host: NA
+    isolate: NA
+    len3: '582'
+    len5: '95'
+    lenC: '10299'
+    nrcode: 1.3.1.1
+    path: MBFV/JEVG/JEV
+    scientific_name: Japanese encephalitis virus
+    strain: NA
+    taxid: '11072'
+  NC_001474.2:
+    ab_c: MBFV
+    ab_g: DENVG
+    ab_v: DENV2
+    acc: NC_001474.2
+    country: Thailand
+    date: '1964'
+    description: Dengue virus 2, complete genome.
+    host: NA
+    isolate: NA
+    len3: '451'
+    len5: '96'
+    lenC: '10176'
+    nrcode: 1.2.2.1
+    path: MBFV/DENVG/DENV2
+    scientific_name: Dengue virus 2
+    strain: '16681'
+    taxid: '11060'
+  NC_001475.2:
+    ab_c: MBFV
+    ab_g: DENVG
+    ab_v: DENV3
+    acc: NC_001475.2
+    country: Sri Lanka
+    date: NA
+    description: Dengue virus 3, complete genome.
+    host: NA
+    isolate: D3/H/IMTSSA-SRI/2000/1266
+    len3: '440'
+    len5: '94'
+    lenC: '10173'
+    nrcode: 1.2.3.1
+    path: MBFV/DENVG/DENV3
+    scientific_name: Dengue virus 3
+    strain: NA
+    taxid: '11069'
+  NC_001477.1:
+    ab_c: MBFV
+    ab_g: DENVG
+    ab_v: DENV1
+    acc: NC_001477.1
+    country: NA
+    date: NA
+    description: Dengue virus 1, complete genome.
+    host: NA
+    isolate: NA
+    len3: '462'
+    len5: '94'
+    lenC: '10179'
+    nrcode: 1.2.1.1
+    path: MBFV/DENVG/DENV1
+    scientific_name: Dengue virus 1
+    strain: NA
+    taxid: '11053'
+  NC_001563.2:
+    ab_c: MBFV
+    ab_g: JEVG
+    ab_v: WNV
+    acc: NC_001563.2
+    country: NA
+    date: NA
+    description: West Nile virus lineage 2, complete genome.
+    host: NA
+    isolate: NA
+    len3: '573'
+    len5: '96'
+    lenC: '10293'
+    nrcode: 1.3.2.2
+    path: MBFV/JEVG/WNV
+    scientific_name: West Nile virus
+    strain: '956'
+    taxid: '11082'
+  NC_001564.2:
+    ab_c: ISFV
+    ab_g: cISFVG
+    ab_v: CFAV
+    acc: NC_001564.2
+    country: USA
+    date: '2012'
+    description: Cell fusing agent virus strain Galveston, complete genome.
+    host: Aedes aegypti Galveston colony
+    isolate: NA
+    len3: '553'
+    len5: '103'
+    lenC: '10026'
+    nrcode: 4.1.2.1
+    path: ISFV/cISFVG/CFAV
+    scientific_name: Cell fusing agent virus
+    strain: Galveston
+    taxid: '31658'
+  NC_001672.1:
+    ab_c: TBFV
+    ab_g: MTBVG
+    ab_v: TBEV
+    acc: NC_001672.1
+    country: NA
+    date: NA
+    description: Tick-borne encephalitis virus, complete genome.
+    host: NA
+    isolate: NA
+    len3: '764'
+    len5: '132'
+    lenC: '10245'
+    nrcode: 2.1.11.1
+    path: TBFV/MTBVG/TBEV
+    scientific_name: Tick-borne encephalitis virus
+    strain: NA
+    taxid: '11084'
+  NC_001809.1:
+    ab_c: TBFV
+    ab_g: MTBVG
+    ab_v: LIV
+    acc: NC_001809.1
+    country: NA
+    date: NA
+    description: Louping ill virus, complete genome.
+    host: NA
+    isolate: NA
+    len3: '497'
+    len5: '129'
+    lenC: '10245'
+    nrcode: 2.1.12.1
+    path: TBFV/MTBVG/LIV
+    scientific_name: Louping ill virus
+    strain: 369/T2
+    taxid: '11086'
+  NC_002031.1:
+    ab_c: MBFV
+    ab_g: YFVG
+    ab_v: YFV17D
+    acc: NC_002031.1
+    country: NA
+    date: NA
+    description: Yellow fever virus, complete genome.
+    host: NA
+    isolate: NA
+    len3: '508'
+    len5: '118'
+    lenC: '10236'
+    nrcode: 1.7.2.1
+    path: MBFV/YFVG/YFV17D
+    scientific_name: Yellow fever virus 17D
+    strain: 17D vaccine strain
+    taxid: '11089'
+  NC_002640.1:
+    ab_c: MBFV
+    ab_g: DENVG
+    ab_v: DENV4
+    acc: NC_002640.1
+    country: NA
+    date: NA
+    description: Dengue virus 4, complete genome.
+    host: NA
+    isolate: NA
+    len3: '384'
+    len5: '101'
+    lenC: '10164'
+    nrcode: 1.2.4.1
+    path: MBFV/DENVG/DENV4
+    scientific_name: Dengue virus 4
+    strain: NA
+    taxid: '11070'
+  NC_003635.1:
+    ab_c: NKV
+    ab_g: MODVG
+    ab_v: MODV
+    acc: NC_003635.1
+    country: USA:Modoc county
+    date: NA
+    description: Modoc virus, complete genome.
+    host: NA
+    isolate: NA
+    len3: '366'
+    len5: '109'
+    lenC: '10125'
+    nrcode: 3.2.4.1
+    path: NKV/MODVG/MODV
+    scientific_name: Modoc virus
+    strain: M544
+    taxid: '64300'
+  NC_003675.1:
+    ab_c: NKV
+    ab_g: RBG
+    ab_v: RBV
+    acc: NC_003675.1
+    country: NA
+    date: NA
+    description: Rio Bravo virus, genome.
+    host: NA
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10140'
+    nrcode: 3.3.6.1
+    path: NKV/RBG/RBV
+    scientific_name: Rio Bravo virus
+    strain: RiMAR
+    taxid: '64285'
+  NC_003676.1:
+    ab_c: NKV
+    ab_g: MODVG
+    ab_v: APOIV
+    acc: NC_003676.1
+    country: NA
+    date: NA
+    description: Apoi virus, genome.
+    host: NA
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10116'
+    nrcode: 3.2.1.1
+    path: NKV/MODVG/APOIV
+    scientific_name: Apoi virus
+    strain: ApMAR
+    taxid: '64280'
+  NC_003687.1:
+    ab_c: TBFV
+    ab_g: MTBVG
+    ab_v: POWV
+    acc: NC_003687.1
+    country: NA
+    date: NA
+    description: Powassan virus, complete genome.
+    host: NA
+    isolate: NA
+    len3: '480'
+    len5: '111'
+    lenC: '10248'
+    nrcode: 2.1.10.1
+    path: TBFV/MTBVG/POWV
+    scientific_name: Powassan virus
+    strain: LB
+    taxid: '11083'
+  NC_003690.1:
+    ab_c: TBFV
+    ab_g: MTBVG
+    ab_v: LGTV
+    acc: NC_003690.1
+    country: NA
+    date: NA
+    description: Langat virus, complete genome.
+    host: NA
+    isolate: NA
+    len3: '568'
+    len5: '130'
+    lenC: '10245'
+    nrcode: 2.1.1.1
+    path: TBFV/MTBVG/LGTV
+    scientific_name: Langat virus
+    strain: TP21
+    taxid: '11085'
+  NC_003996.1:
+    ab_c: NKV
+    ab_g: TABVG
+    ab_v: TABV
+    acc: NC_003996.1
+    country: 'Trinidad and Tobago: Tamana cave'
+    date: NA
+    description: Tamana bat virus, genome.
+    host: Pteronotus parnellii
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10053'
+    nrcode: 3.4.1.1
+    path: NKV/TABVG/TABV
+    scientific_name: Tamana bat virus
+    strain: NA
+    taxid: '161675'
+  NC_004119.1:
+    ab_c: NKV
+    ab_g: RBG
+    ab_v: MMLV
+    acc: NC_004119.1
+    country: USA:Montana
+    date: NA
+    description: Montana myotis leukoencephalitis virus, complete genome.
+    host: NA
+    isolate: NA
+    len3: '460'
+    len5: '108'
+    lenC: '10125'
+    nrcode: 3.3.4.1
+    path: NKV/RBG/MMLV
+    scientific_name: Montana myotis leukoencephalitis virus
+    strain: NA
+    taxid: '64312'
+  NC_005039.1:
+    ab_c: NKV
+    ab_g: ENTVG
+    ab_v: YOKV
+    acc: NC_005039.1
+    country: NA
+    date: NA
+    description: Yokose virus, complete genome.
+    host: NA
+    isolate: NA
+    len3: '429'
+    len5: '150'
+    lenC: '10278'
+    nrcode: 3.1.2.1
+    path: NKV/ENTVG/YOKV
+    scientific_name: Yokose virus
+    strain: Oita 36
+    taxid: '64294'
+  NC_005062.1:
+    ab_c: TBFV
+    ab_g: MTBVG
+    ab_v: OHFV
+    acc: NC_005062.1
+    country: NA
+    date: NA
+    description: Omsk hemorrhagic fever virus, complete genome.
+    host: NA
+    isolate: NA
+    len3: '410'
+    len5: '132'
+    lenC: '10245'
+    nrcode: 2.1.7.1
+    path: TBFV/MTBVG/OHFV
+    scientific_name: Omsk hemorrhagic fever virus
+    strain: Bogoluvovska
+    taxid: '12542'
+  NC_005064.1:
+    ab_c: ISFV
+    ab_g: cISFVG
+    ab_v: KRV
+    acc: NC_005064.1
+    country: NA
+    date: NA
+    description: Kamiti River virus, complete genome.
+    host: NA
+    isolate: SR-82
+    len3: '1208'
+    len5: '96'
+    lenC: '10074'
+    nrcode: 4.1.9.1
+    path: ISFV/cISFVG/KRV
+    scientific_name: Kamiti River virus
+    strain: NA
+    taxid: '218849'
+  NC_006551.1:
+    ab_c: MBFV
+    ab_g: JEVG
+    ab_v: USUV
+    acc: NC_006551.1
+    country: Austria
+    date: NA
+    description: Usutu virus, complete cds.
+    host: NA
+    isolate: NA
+    len3: '665'
+    len5: '96'
+    lenC: '10305'
+    nrcode: 1.3.7.1
+    path: MBFV/JEVG/USUV
+    scientific_name: Usutu virus
+    strain: Vienna 2001
+    taxid: '64286'
+  NC_007580.2:
+    ab_c: MBFV
+    ab_g: JEVG
+    ab_v: SLEV
+    acc: NC_007580.2
+    country: USA
+    date: NA
+    description: Saint Louis encephalitis virus, complete genome.
+    host: NA
+    isolate: NA
+    len3: '549'
+    len5: '98'
+    lenC: '10293'
+    nrcode: 1.3.3.1
+    path: MBFV/JEVG/SLEV
+    scientific_name: Saint Louis encephalitis virus
+    strain: Kern217
+    taxid: '11080'
+  NC_008604.2:
+    ab_c: ISFV
+    ab_g: cISFVG
+    ab_v: CxFV
+    acc: NC_008604.2
+    country: Japan:Tokyo, Shinjuku
+    date: '2003'
+    description: Culex flavivirus, complete genome.
+    host: NA
+    isolate: NA
+    len3: '654'
+    len5: '91'
+    lenC: '10092'
+    nrcode: 4.1.1.1
+    path: ISFV/cISFVG/CxFV
+    scientific_name: Culex flavivirus
+    strain: Tokyo
+    taxid: '390844'
+  NC_008718.1:
+    ab_c: NKV
+    ab_g: ENTVG
+    ab_v: ENTV
+    acc: NC_008718.1
+    country: Uganda
+    date: NA
+    description: Entebbe bat virus, complete genome.
+    host: bat
+    isolate: NA
+    len3: '155'
+    len5: '119'
+    lenC: '10236'
+    nrcode: 3.1.1.1
+    path: NKV/ENTVG/ENTV
+    scientific_name: Entebbe bat virus
+    strain: UgIL-30
+    taxid: '64283'
+  NC_008719.1:
+    ab_c: MBFV
+    ab_g: YFVG
+    ab_v: SEPV
+    acc: NC_008719.1
+    country: Papua New Guinea
+    date: NA
+    description: Sepik virus, complete genome.
+    host: mosquito
+    isolate: NA
+    len3: '459'
+    len5: '116'
+    lenC: '10218'
+    nrcode: 1.7.4.1
+    path: MBFV/YFVG/SEPV
+    scientific_name: Sepik virus
+    strain: MK7148
+    taxid: '44026'
+  NC_009026.2:
+    ab_c: MBFV
+    ab_g: AROVG
+    ab_v: AROAV
+    acc: NC_009026.2
+    country: NA
+    date: NA
+    description: Bussuquara virus, complete genome.
+    host: NA
+    isolate: BeAn 4073
+    len3: '421'
+    len5: '104'
+    lenC: '10290'
+    nrcode: 1.1.1.1
+    path: MBFV/AROVG/AROAV
+    scientific_name: Aroa virus
+    strain: Bussuquara virus
+    taxid: '64303'
+  NC_009028.2:
+    ab_c: MBFV
+    ab_g: NTAVG
+    ab_v: ILHV
+    acc: NC_009028.2
+    country: NA
+    date: NA
+    description: Ilheus virus, complete genome.
+    host: NA
+    isolate: NA
+    len3: '388'
+    len5: '92'
+    lenC: '10275'
+    nrcode: 1.5.2.1
+    path: MBFV/NTAVG/ILHV
+    scientific_name: Ilheus virus
+    strain: Original
+    taxid: '59563'
+  NC_009029.2:
+    ab_c: MBFV
+    ab_g: KOKVG
+    ab_v: KOKV
+    acc: NC_009029.2
+    country: NA
+    date: NA
+    description: Kokobera virus, complete genome.
+    host: NA
+    isolate: NA
+    len3: '558'
+    len5: '83'
+    lenC: '10233'
+    nrcode: 1.4.1.1
+    path: MBFV/KOKVG/KOKV
+    scientific_name: Kokobera virus
+    strain: AusMRM 32
+    taxid: '44024'
+  NC_009942.1:
+    ab_c: MBFV
+    ab_g: JEVG
+    ab_v: WNV
+    acc: NC_009942.1
+    country: USA
+    date: NA
+    description: West Nile virus lineage 1, complete genome.
+    host: NA
+    isolate: 385-99
+    len3: '631'
+    len5: '96'
+    lenC: '10302'
+    nrcode: 1.3.2.1
+    path: MBFV/JEVG/WNV
+    scientific_name: West Nile virus
+    strain: NY99
+    taxid: '11082'
+  NC_012532.1:
+    ab_c: MBFV
+    ab_g: SPOVG
+    ab_v: ZIKV
+    acc: NC_012532.1
+    country: Uganda
+    date: NA
+    description: Zika virus, complete genome.
+    host: sentinel monkey
+    isolate: NA
+    len3: '428'
+    len5: '106'
+    lenC: '10260'
+    nrcode: 1.6.2.2
+    path: MBFV/SPOVG/ZIKV
+    scientific_name: Zika virus
+    strain: MR 766
+    taxid: '64320'
+  NC_012533.1:
+    ab_c: MBFV
+    ab_g: DENVG
+    ab_v: KEDV
+    acc: NC_012533.1
+    country: Senegal
+    date: NA
+    description: Kedougou virus strain DakAar D1470, complete genome.
+    host: mosquito
+    isolate: NA
+    len3: '390'
+    len5: '106'
+    lenC: '10227'
+    nrcode: 1.2.5.1
+    path: MBFV/DENVG/KEDV
+    scientific_name: Kedougou virus
+    strain: DakAar D1470
+    taxid: '64311'
+  NC_012534.1:
+    ab_c: MBFV
+    ab_g: NTAVG
+    ab_v: BAGV
+    acc: NC_012534.1
+    country: Central African Republic
+    date: NA
+    description: Bagaza virus strain DakAr B209, complete genome.
+    host: mosquito
+    isolate: NA
+    len3: '566'
+    len5: '94'
+    lenC: '10281'
+    nrcode: 1.5.4.1
+    path: MBFV/NTAVG/BAGV
+    scientific_name: Bagaza virus
+    strain: DakAr B209
+    taxid: '64290'
+  NC_012671.1:
+    ab_c: ISFV
+    ab_g: cISFVG
+    ab_v: QBV
+    acc: NC_012671.1
+    country: Viet Nam
+    date: Aug-2002
+    description: Quang Binh virus, complete genome.
+    host: Culex tritaeniorhynchus (mosquito)
+    isolate: VN180
+    len3: '673'
+    len5: '112'
+    lenC: '10080'
+    nrcode: 4.1.7.1
+    path: ISFV/cISFVG/QBV
+    scientific_name: Quang Binh virus
+    strain: NA
+    taxid: '643132'
+  NC_012735.1:
+    ab_c: MBFV
+    ab_g: YFVG
+    ab_v: WESSV
+    acc: NC_012735.1
+    country: South Africa
+    date: NA
+    description: Wesselsbron virus strain SAH177, complete genome.
+    host: NA
+    isolate: NA
+    len3: '478'
+    len5: '118'
+    lenC: '10218'
+    nrcode: 1.7.3.1
+    path: MBFV/YFVG/WESSV
+    scientific_name: Wesselsbron virus
+    strain: SAH177
+    taxid: '164416'
+  NC_012932.1:
+    ab_c: ISFV
+    ab_g: cISFVG
+    ab_v: AEFV
+    acc: NC_012932.1
+    country: Japan:Chiba, Narita
+    date: '2003'
+    description: 'Aedes flavivirus genomic RNA, complete genome, strain: Narita-21.'
+    host: Aedes albopictus
+    isolate: NA
+    len3: '942'
+    len5: '96'
+    lenC: '10026'
+    nrcode: 4.1.3.1
+    path: ISFV/cISFVG/AEFV
+    scientific_name: Aedes flavivirus
+    strain: Narita-21
+    taxid: '390845'
+  NC_015843.2:
+    ab_c: MBFV
+    ab_g: NTAVG
+    ab_v: TMUV
+    acc: NC_015843.2
+    country: China
+    date: Sep-2010
+    description: Tembusu virus flavivirus polyprotein (flavivirus polyprotein gene)
+      gene, complete cds.
+    host: goose
+    isolate: NA
+    len3: '618'
+    len5: '94'
+    lenC: '10278'
+    nrcode: 1.5.5.1
+    path: MBFV/NTAVG/TMUV
+    scientific_name: Tembusu virus
+    strain: JS804
+    taxid: '64293'
+  NC_016997.1:
+    ab_c: ISFV
+    ab_g: dISFVG
+    ab_v: DONV
+    acc: NC_016997.1
+    country: China
+    date: '2009'
+    description: Donggang virus, complete genome.
+    host: Aedes sp. (mosquito)
+    isolate: DG0909
+    len3: '343'
+    len5: '113'
+    lenC: '10335'
+    nrcode: 4.2.4.1
+    path: ISFV/dISFVG/DONV
+    scientific_name: Donggang virus
+    strain: NA
+    taxid: '985683'
+  NC_017086.1:
+    ab_c: ISFV
+    ab_g: dISFVG
+    ab_v: CHAOV
+    acc: NC_017086.1
+    country: China
+    date: '2010'
+    description: Chaoyang virus, complete genome.
+    host: mosquito
+    isolate: HLD115
+    len3: '326'
+    len5: '99'
+    lenC: '10308'
+    nrcode: 4.2.2.1
+    path: ISFV/dISFVG/CHAOV
+    scientific_name: Chaoyang virus
+    strain: NA
+    taxid: '631267'
+  NC_018705.3:
+    ab_c: MBFV
+    ab_g: NTAVG
+    ab_v: NTAV
+    acc: NC_018705.3
+    country: NA
+    date: '1966'
+    description: Ntaya virus, complete cds.
+    host: NA
+    isolate: IPDIA
+    len3: '565'
+    len5: '94'
+    lenC: '10284'
+    nrcode: 1.5.3.1
+    path: MBFV/NTAVG/NTAV
+    scientific_name: Ntaya virus
+    strain: NA
+    taxid: '64292'
+  NC_021069.1:
+    ab_c: ISFV
+    ab_g: cISFVG
+    ab_v: MSFV
+    acc: NC_021069.1
+    country: China
+    date: Jul-2009
+    description: Mosquito flavivirus isolate LSFlaviV-A20-09, complete genome.
+    host: Culex tritaeniorhynchus
+    isolate: LSFlaviV-A20-09
+    len3: '674'
+    len5: '111'
+    lenC: '10080'
+    nrcode: 4.1.8.1
+    path: ISFV/cISFVG/MSFV
+    scientific_name: Mosquito flavivirus
+    strain: NA
+    taxid: '673515'
+  NC_023424.1:
+    ab_c: TBFV
+    ab_g: STBVG
+    ab_v: TYUV
+    acc: NC_023424.1
+    country: 'Russia: far East, Sea of Okhotsk; Tyuleniy island'
+    date: '1969'
+    description: Tyuleniy virus strain LEIV-6C polyprotein gene, complete cds.
+    host: Ixodes uriae
+    isolate: NA
+    len3: '273'
+    len5: '131'
+    lenC: '10269'
+    nrcode: 2.2.1.1
+    path: TBFV/STBVG/TYUV
+    scientific_name: Tyuleniy virus
+    strain: LEIV-6C
+    taxid: '40004'
+  NC_023439.1:
+    ab_c: TBFV
+    ab_g: STBVG
+    ab_v: KAMV
+    acc: NC_023439.1
+    country: 'Russia: islands of Kuybyshev Reservoir, Kuybyshev Sea, East European
+      Plain'
+    date: '1989'
+    description: Kama virus strain LEIV-20776Tat polyprotein gene, complete cds.
+    host: Ixodes lividus
+    isolate: NA
+    len3: '282'
+    len5: '146'
+    lenC: '10260'
+    nrcode: 2.2.3.1
+    path: TBFV/STBVG/KAMV
+    scientific_name: Kama virus
+    strain: LEIV-20776Tat
+    taxid: '1456752'
+  NC_024017.1:
+    ab_c: ISFV
+    ab_g: dISFVG
+    ab_v: NHUV
+    acc: NC_024017.1
+    country: 'Brazil: Nhecolandia Sub-region of Pantanal, Corumba, Mato Grosso do
+      Sul'
+    date: 17-Oct-2010
+    description: Nhumirim virus strain BrMS-MQ10, complete genome.
+    host: Culex chidesteri
+    isolate: NA
+    len3: '451'
+    len5: '102'
+    lenC: '10338'
+    nrcode: 4.2.8.1
+    path: ISFV/dISFVG/NHUV
+    scientific_name: Nhumirim virus
+    strain: BrMS-MQ10
+    taxid: '1485186'
+  NC_024299.2:
+    ab_c: ISFV
+    ab_g: cISFVG
+    ab_v: NIEV
+    acc: NC_024299.2
+    country: Cote d'Ivoire
+    date: '2004'
+    description: Nienokoue virus isolate B51/CI/2004, complete genome.
+    host: Culex sp.
+    isolate: B51/CI/2004
+    len3: '709'
+    len5: '98'
+    lenC: '10071'
+    nrcode: 4.1.18.1
+    path: ISFV/cISFVG/NIEV
+    scientific_name: Nienokoue virus
+    strain: NA
+    taxid: '1286143'
+  NC_024805.1:
+    ab_c: ISFV
+    ab_g: dISFVG
+    ab_v: ILOV
+    acc: NC_024805.1
+    country: Finland
+    date: Aug-2007
+    description: Ilomantsi virus isolate M0724 polyprotein gene, complete cds.
+    host: mosquito
+    isolate: M0724
+    len3: '0'
+    len5: '9'
+    lenC: '10356'
+    nrcode: 4.2.9.1
+    path: ISFV/dISFVG/ILOV
+    scientific_name: Ilomantsi virus
+    strain: NA
+    taxid: '1445557'
+  NC_026620.1:
+    ab_c: NKV
+    ab_g: MODVG
+    ab_v: JUTV
+    acc: NC_026620.1
+    country: Guatemala
+    date: '1969'
+    description: Jutiapa virus strain JG-128, complete genome.
+    host: Sigmodon hispidus
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10125'
+    nrcode: 3.2.3.1
+    path: NKV/MODVG/JUTV
+    scientific_name: Jutiapa virus
+    strain: JG-128
+    taxid: '64299'
+  NC_026623.1:
+    ab_c: MBFV
+    ab_g: JEVG
+    ab_v: CPCV
+    acc: NC_026623.1
+    country: Brazil
+    date: '1977'
+    description: Cacipacore virus flavivirus polyprotein (flavivirus polyprotein gene)
+      and truncated polyprotein (flavivirus polyprotein gene) genes, complete cds.
+    host: Formicarius analis
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10284'
+    nrcode: 1.3.8.1
+    path: MBFV/JEVG/CPCV
+    scientific_name: Cacipacore virus
+    strain: BeAn 3276000
+    taxid: '64305'
+  NC_026624.1:
+    ab_c: NKV
+    ab_g: ENTVG
+    ab_v: SOKV
+    acc: NC_026624.1
+    country: Kyrgyzstan
+    date: '1970'
+    description: Sokoluk virus strain LEIV-400K, complete genome.
+    host: Pipistrellus pipistrellus
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10242'
+    nrcode: 3.1.3.1
+    path: NKV/ENTVG/SOKV
+    scientific_name: Sokoluk virus
+    strain: LEIV-400K
+    taxid: '64317'
+  NC_027709.1:
+    ab_c: TBFV
+    ab_g: MTBVG
+    ab_v: SGEV
+    acc: NC_027709.1
+    country: Spain
+    date: '2011'
+    description: Spanish goat encephalitis virus isolate AstGoatIREC2011, complete
+      genome.
+    host: Bermeya goat
+    isolate: AstGoatIREC2011
+    len3: '493'
+    len5: '132'
+    lenC: '10245'
+    nrcode: 2.1.14.1
+    path: TBFV/MTBVG/SGEV
+    scientific_name: Spanish goat encephalitis virus
+    strain: NA
+    taxid: '1691889'
+  NC_027817.1:
+    ab_c: ISFV
+    ab_g: cISFVG
+    ab_v: PaRV
+    acc: NC_027817.1
+    country: Australia
+    date: '2007'
+    description: Parramatta River virus isolate 92-B115745, complete genome.
+    host: NA
+    isolate: 92-B115745
+    len3: '629'
+    len5: '109'
+    lenC: '10155'
+    nrcode: 4.1.4.1
+    path: ISFV/cISFVG/PaRV
+    scientific_name: Parramatta River virus
+    strain: NA
+    taxid: '1708654'
+  NC_027819.1:
+    ab_c: ISFV
+    ab_g: cISFVG
+    ab_v: MECDV
+    acc: NC_027819.1
+    country: Panama
+    date: '2011'
+    description: Mercadeo virus isolate ER-M10, complete genome.
+    host: Culex sp.
+    isolate: ER-M10
+    len3: '638'
+    len5: '88'
+    lenC: '10212'
+    nrcode: 4.1.5.1
+    path: ISFV/cISFVG/MECDV
+    scientific_name: Mercadeo virus
+    strain: NA
+    taxid: '1708574'
+  NC_027999.1:
+    ab_c: ISFV
+    ab_g: dISFVG
+    ab_v: EPEV
+    acc: NC_027999.1
+    country: Ecuador
+    date: '2012'
+    description: Paraiso Escondido virus isolate Ecuador2012, complete genome.
+    host: Psathyromyia abonnenci
+    isolate: Ecuador2012
+    len3: '316'
+    len5: '119'
+    lenC: '10326'
+    nrcode: 4.2.14.1
+    path: ISFV/dISFVG/EPEV
+    scientific_name: Paraiso Escondido virus
+    strain: NA
+    taxid: '1566298'
+  NC_029054.2:
+    ab_c: MBFV
+    ab_g: EHVG
+    ab_v: POTV
+    acc: NC_029054.2
+    country: Nigeria
+    date: NA
+    description: Potiskum virus strain IBAN 10069 polyprotein gene, complete cds.
+    host: NA
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10173'
+    nrcode: 1.8.8.1
+    path: MBFV/EHVG/POTV
+    scientific_name: Potiskum virus
+    strain: IBAN 10069
+    taxid: '64314'
+  NC_029055.1:
+    ab_c: MBFV
+    ab_g: SPOVG
+    ab_v: SPOV
+    acc: NC_029055.1
+    country: South Africa
+    date: NA
+    description: Spondweni virus, complete genome.
+    host: NA
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10290'
+    nrcode: 1.6.1.1
+    path: MBFV/SPOVG/SPOV
+    scientific_name: Spondweni virus
+    strain: SM-6 V-1
+    taxid: '64318'
+  NC_030289.1:
+    ab_c: MBFV
+    ab_g: EHVG
+    ab_v: EHV
+    acc: NC_030289.1
+    country: Australia
+    date: NA
+    description: Edge Hill virus strain YMP 48 polyprotein gene, complete cds.
+    host: NA
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10206'
+    nrcode: 1.8.1.1
+    path: MBFV/EHVG/EHV
+    scientific_name: Edge Hill virus
+    strain: YMP 48
+    taxid: '64296'
+  NC_030290.1:
+    ab_c: ISFV
+    ab_g: cISFVG
+    ab_v: CFV
+    acc: NC_030290.1
+    country: 'USA: Willington, Connecticut'
+    date: 06-Jun-2013
+    description: Culiseta flavivirus strain 502-13, complete genome.
+    host: Culiseta melanura
+    isolate: NA
+    len3: '582'
+    len5: '91'
+    lenC: '10191'
+    nrcode: 4.1.15.1
+    path: ISFV/cISFVG/CFV
+    scientific_name: Culiseta flavivirus
+    strain: 502-13
+    taxid: '1821222'
+  NC_030400.1:
+    ab_c: ISFV
+    ab_g: cISFVG
+    ab_v: NAKV
+    acc: NC_030400.1
+    country: Uganda
+    date: '2008'
+    description: Nakiwogo virus strain Uganda08 polyprotein gene, partial cds.
+    host: Mansonia africana nigerrima voucher H4A1
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10122'
+    nrcode: 4.1.10.1
+    path: ISFV/cISFVG/NAKV
+    scientific_name: Nakiwogo virus
+    strain: Uganda08
+    taxid: '667516'
+  NC_030401.1:
+    ab_c: ISFV
+    ab_g: cISFVG
+    ab_v: HANV
+    acc: NC_030401.1
+    country: Finland
+    date: Aug-2005
+    description: Hanko virus polyprotein gene, complete cds.
+    host: mosquito
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10158'
+    nrcode: 4.1.6.1
+    path: ISFV/cISFVG/HANV
+    scientific_name: Hanko virus
+    strain: NA
+    taxid: '1125677'
+  NC_032088.1:
+    ab_c: MBFV
+    ab_g: KOKVG
+    ab_v: NMV
+    acc: NC_032088.1
+    country: 'Australia: New Mapoon'
+    date: '1998'
+    description: New Mapoon virus, complete cds.
+    host: mosquito
+    isolate: NA
+    len3: '546'
+    len5: '88'
+    lenC: '10230'
+    nrcode: 1.4.2.1
+    path: MBFV/KOKVG/NMV
+    scientific_name: New Mapoon virus
+    strain: CY1014
+    taxid: '499854'
+  NC_033693.1:
+    ab_c: MBFV
+    ab_g: EHVG
+    ab_v: BOUV
+    acc: NC_033693.1
+    country: Central African Republic
+    date: NA
+    description: Bouboui virus strain DAK AR B490 polyprotein gene, complete cds.
+    host: NA
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10173'
+    nrcode: 1.8.3.1
+    path: MBFV/EHVG/BOUV
+    scientific_name: Bouboui virus
+    strain: DAK AR B490
+    taxid: '64295'
+  NC_033694.1:
+    ab_c: ISFV
+    ab_g: cISFVG
+    ab_v: PCV
+    acc: NC_033694.1
+    country: Australia
+    date: '2010'
+    description: Palm Creek virus isolate 56 polyprotein gene, complete cds.
+    host: Coquillettidia xanthogaster
+    isolate: '56'
+    len3: '0'
+    len5: '0'
+    lenC: '10095'
+    nrcode: 4.1.11.1
+    path: ISFV/cISFVG/PCV
+    scientific_name: Palm Creek virus
+    strain: NA
+    taxid: '1302179'
+  NC_033697.1:
+    ab_c: MBFV
+    ab_g: EHVG
+    ab_v: SABV
+    acc: NC_033697.1
+    country: Senegal
+    date: NA
+    description: Saboya virus strain Dak AR D4600 polyprotein gene, complete cds.
+    host: NA
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10173'
+    nrcode: 1.8.6.1
+    path: MBFV/EHVG/SABV
+    scientific_name: Saboya virus
+    strain: Dak AR D4600
+    taxid: '64284'
+  NC_033698.1:
+    ab_c: MBFV
+    ab_g: EHVG
+    ab_v: UGSV
+    acc: NC_033698.1
+    country: Uganda
+    date: NA
+    description: Uganda S virus polyprotein gene, complete cds.
+    host: NA
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10182'
+    nrcode: 1.8.7.1
+    path: MBFV/EHVG/UGSV
+    scientific_name: Uganda S virus
+    strain: NA
+    taxid: '64297'
+  NC_033699.1:
+    ab_c: MBFV
+    ab_g: EHVG
+    ab_v: JUGV
+    acc: NC_033699.1
+    country: Malaysia
+    date: NA
+    description: Jugra virus strain P-9-314 polyprotein gene, complete cds.
+    host: NA
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10173'
+    nrcode: 1.8.5.1
+    path: MBFV/EHVG/JUGV
+    scientific_name: Jugra virus
+    strain: P-9-314
+    taxid: '64309'
+  NC_033715.1:
+    ab_c: ISFV
+    ab_g: dISFVG
+    ab_v: NOUV
+    acc: NC_033715.1
+    country: Cote d'Ivoire
+    date: NA
+    description: Nounane virus polyprotein mRNA, complete cds.
+    host: Uranotaenia mashonaensis
+    isolate: NA
+    len3: '347'
+    len5: '79'
+    lenC: '10329'
+    nrcode: 4.2.1.1
+    path: ISFV/dISFVG/NOUV
+    scientific_name: Nounane virus
+    strain: Nounane_B3
+    taxid: '486494'
+  NC_033721.1:
+    ab_c: TBFV
+    ab_g: STBVG
+    ab_v: MEAV
+    acc: NC_033721.1
+    country: France
+    date: NA
+    description: Meaban virus from France polyprotein gene, complete cds.
+    host: NA
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10266'
+    nrcode: 2.2.2.1
+    path: TBFV/STBVG/MEAV
+    scientific_name: Meaban virus
+    strain: NA
+    taxid: '35279'
+  NC_033723.1:
+    ab_c: TBFV
+    ab_g: MTBVG
+    ab_v: GGV
+    acc: NC_033723.1
+    country: 'Australia: Macquarie Island'
+    date: NA
+    description: Gadgets Gully virus from Australia polyprotein gene, complete cds.
+    host: NA
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10251'
+    nrcode: 2.1.9.1
+    path: TBFV/MTBVG/GGV
+    scientific_name: Gadgets Gully virus
+    strain: NA
+    taxid: '64307'
+  NC_033724.1:
+    ab_c: TBFV
+    ab_g: KVG
+    ab_v: KADV
+    acc: NC_033724.1
+    country: Uganda
+    date: NA
+    description: Kadam virus from Uganda polyprotein gene, complete cds.
+    host: NA
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10215'
+    nrcode: 2.3.1.1
+    path: TBFV/KVG/KADV
+    scientific_name: Kadam virus
+    strain: NA
+    taxid: '64310'
+  NC_033725.1:
+    ab_c: MBFV
+    ab_g: EHVG
+    ab_v: BGV
+    acc: NC_033725.1
+    country: Australia
+    date: '2001'
+    description: Bamaga virus isolate CY4270 polyprotein gene, complete cds.
+    host: Culex sitiens subgroup
+    isolate: CY4270
+    len3: '0'
+    len5: '0'
+    lenC: '10203'
+    nrcode: 1.8.2.1
+    path: MBFV/EHVG/BGV
+    scientific_name: Bamaga virus
+    strain: NA
+    taxid: '1805494'
+  NC_033726.1:
+    ab_c: TBFV
+    ab_g: STBVG
+    ab_v: SREV
+    acc: NC_033726.1
+    country: 'Australia: Queensland'
+    date: NA
+    description: Saumarez Reef virus from Australia polyprotein gene, complete cds.
+    host: NA
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10269'
+    nrcode: 2.2.4.1
+    path: TBFV/STBVG/SREV
+    scientific_name: Saumarez Reef virus
+    strain: NA
+    taxid: '40012'
+  NC_034007.1:
+    ab_c: NKV
+    ab_g: RBG
+    ab_v: PPBV
+    acc: NC_034007.1
+    country: Cambodia
+    date: '1969'
+    description: Phnom Penh bat virus strain 30834_A38, complete genome.
+    host: Cynopterus brachyotis angulatus
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10131'
+    nrcode: 3.3.5.1
+    path: NKV/RBG/PPBV
+    scientific_name: Phnom Penh bat virus
+    strain: 30834_A38
+    taxid: '64894'
+  NC_034017.1:
+    ab_c: ISFV
+    ab_g: cISFVG
+    ab_v: XFV
+    acc: NC_034017.1
+    country: China
+    date: 02-Aug-2010
+    description: Xishuangbanna aedes flavivirus, complete genome.
+    host: Aedes albopictus
+    isolate: XSBNAeFV
+    len3: '549'
+    len5: '90'
+    lenC: '10245'
+    nrcode: 4.1.14.1
+    path: ISFV/cISFVG/XFV
+    scientific_name: Xishuangbanna aedes flavivirus
+    strain: NA
+    taxid: '1821227'
+  NC_034018.1:
+    ab_c: MBFV
+    ab_g: JEVG
+    ab_v: YAOV
+    acc: NC_034018.1
+    country: Cameroon
+    date: NA
+    description: Yaounde virus strain Dak Ar Y276 polyprotein gene, complete cds.
+    host: NA
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10293'
+    nrcode: 1.3.9.1
+    path: MBFV/JEVG/YAOV
+    scientific_name: Yaounde virus
+    strain: Dak Ar Y276
+    taxid: '64319'
+  NC_034151.1:
+    ab_c: MBFV
+    ab_g: NTAVG
+    ab_v: THOV
+    acc: NC_034151.1
+    country: 'Mexico: Yucatan State, Merida'
+    date: '2007'
+    description: T'Ho virus strain T'Ho-Mex07, complete genome.
+    host: Culex quinquefasciatus
+    isolate: NA
+    len3: '556'
+    len5: '97'
+    lenC: '10284'
+    nrcode: 1.5.16.1
+    path: MBFV/NTAVG/THOV
+    scientific_name: T'Ho virus
+    strain: T'Ho-Mex07
+    taxid: '577122'
+  NC_034242.1:
+    ab_c: ISFV
+    ab_g: cISFVG
+    ab_v: OCFVPT
+    acc: NC_034242.1
+    country: Turkey
+    date: 03-Aug-2015
+    description: Ochlerotatus caspius flavivirus isolate 1608 polyprotein gene, complete
+      cds.
+    host: Ochlerotatus caspius
+    isolate: '1608'
+    len3: '148'
+    len5: '64'
+    lenC: '10158'
+    nrcode: 4.1.13.1
+    path: ISFV/cISFVG/OCFVPT
+    scientific_name: Ochlerotatus caspius flavivirus
+    strain: NA
+    taxid: '1244565'
+  NC_035118.1:
+    ab_c: ISFV
+    ab_g: cISFVG
+    ab_v: KRBV
+    acc: NC_035118.1
+    country: 'Australia: Karumba'
+    date: 24-Apr-2001
+    description: Karumba virus isolate KRBV 1892, complete genome.
+    host: Anopheles meraukensis
+    isolate: KRBV 1892
+    len3: '502'
+    len5: '115'
+    lenC: '10029'
+    nrcode: 4.1.21.1
+    path: ISFV/cISFVG/KRBV
+    scientific_name: Karumba virus
+    strain: NA
+    taxid: '1969397'
+  NC_035187.1:
+    ab_c: ISFV
+    ab_g: cISFVG
+    ab_v: McPV
+    acc: NC_035187.1
+    country: 'Australia: Cairns'
+    date: '2005'
+    description: Mac Peak virus isolate McPV 150840 polyprotein gene, complete cds.
+    host: Anopheles farauti
+    isolate: McPV 150840
+    len3: '0'
+    len5: '0'
+    lenC: '10026'
+    nrcode: 4.1.20.1
+    path: ISFV/cISFVG/McPV
+    scientific_name: Mac Peak virus
+    strain: NA
+    taxid: '1969400'
+  NC_035889.1:
+    ab_c: MBFV
+    ab_g: SPOVG
+    ab_v: ZIKV
+    acc: NC_035889.1
+    country: 'Brazil: Rio Grande do Norte, Natal'
+    date: '2015'
+    description: Zika virus isolate ZIKV/H. sapiens/Brazil/Natal/2015, complete genome.
+    host: Homo sapiens
+    isolate: NA
+    len3: '429'
+    len5: '107'
+    lenC: '10272'
+    nrcode: 1.6.2.1
+    path: MBFV/SPOVG/ZIKV
+    scientific_name: Zika virus
+    strain: Natal RGN
+    taxid: '64320'
+  NC_039218.1:
+    ab_c: TBFV
+    ab_g: MTBVG
+    ab_v: KFDV
+    acc: NC_039218.1
+    country: NA
+    date: NA
+    description: Kyasanur forest disease virus polyprotein gene, complete cds.
+    host: NA
+    isolate: NA
+    len3: '125'
+    len5: '0'
+    lenC: '10251'
+    nrcode: 2.1.13.1
+    path: TBFV/MTBVG/KFDV
+    scientific_name: Kyasanur Forest disease virus
+    strain: NA
+    taxid: '33743'
+  NC_039219.1:
+    ab_c: TBFV
+    ab_g: MTBVG
+    ab_v: RFV
+    acc: NC_039219.1
+    country: Afghanistan
+    date: NA
+    description: Royal Farm virus from Afghanistan polyprotein gene, complete cds.
+    host: NA
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10254'
+    nrcode: 2.1.6.1
+    path: TBFV/MTBVG/RFV
+    scientific_name: Royal Farm virus
+    strain: NA
+    taxid: '64288'
+  NC_040610.1:
+    ab_c: ISFV
+    ab_g: dISFVG
+    ab_v: NANV
+    acc: NC_040610.1
+    country: NA
+    date: '2009'
+    description: Nanay virus strain PRD316/PER/09, complete genome.
+    host: NA
+    isolate: NA
+    len3: '399'
+    len5: '106'
+    lenC: '10299'
+    nrcode: 4.2.7.1
+    path: ISFV/dISFVG/NANV
+    scientific_name: Nanay virus
+    strain: PRD316/PER/09
+    taxid: '1254420'
+  NC_040645.1:
+    ab_c: ISFV
+    ab_g: cISFVG
+    ab_v: CxFLV
+    acc: NC_040645.1
+    country: USA
+    date: 02-Jul-2016
+    description: Culex Flavi-like virus strain CFVL/San Francisco, complete genome.
+    host: Culex sp. (mosquito)
+    isolate: NA
+    len3: '443'
+    len5: '146'
+    lenC: '10020'
+    nrcode: 4.1.23.1
+    path: ISFV/cISFVG/CxFLV
+    scientific_name: Culex Flavi-like virus
+    strain: CFVL/San Francisco
+    taxid: '2304510'
+  NC_040682.1:
+    ab_c: ISFV
+    ab_g: cISFVG
+    ab_v: CTFV
+    acc: NC_040682.1
+    country: Indonesia
+    date: 21-Jan-1981
+    description: Culex theileri flavivirus, complete genome.
+    host: Anopheles vagus
+    isolate: NA
+    len3: '112'
+    len5: '343'
+    lenC: '9825'
+    nrcode: 4.1.12.1
+    path: ISFV/cISFVG/CTFV
+    scientific_name: Culex theileri flavivirus
+    strain: JKT-8650
+    taxid: '1244563'
+  NC_040776.1:
+    ab_c: MBFV
+    ab_g: NTAVG
+    ab_v: ROCV
+    acc: NC_040776.1
+    country: NA
+    date: NA
+    description: Rocio virus strain SPH 34675, complete genome.
+    host: NA
+    isolate: NA
+    len3: '424'
+    len5: '92'
+    lenC: '10278'
+    nrcode: 1.5.1.1
+    path: MBFV/NTAVG/ROCV
+    scientific_name: Rocio virus
+    strain: SPH 34675
+    taxid: '64315'
+  NC_040788.1:
+    ab_c: ISFV
+    ab_g: dISFVG
+    ab_v: KPKV
+    acc: NC_040788.1
+    country: 'Malaysia: Sarawak, Kuching district, Kampung Karu'
+    date: 16-Oct-2013
+    description: Kampung Karu virus isolate SWK_P44, complete genome.
+    host: Anopheles tessellatus
+    isolate: SWK_P44
+    len3: '0'
+    len5: '0'
+    lenC: '10311'
+    nrcode: 4.2.11.1
+    path: ISFV/dISFVG/KPKV
+    scientific_name: Kampung Karu virus
+    strain: NA
+    taxid: '2045186'
+  NC_043110.1:
+    ab_c: MBFV
+    ab_g: EHVG
+    ab_v: BANV
+    acc: NC_043110.1
+    country: South Africa
+    date: NA
+    description: Banzi virus strain SAH 336 polyprotein gene, complete cds.
+    host: NA
+    isolate: NA
+    len3: '0'
+    len5: '0'
+    lenC: '10182'
+    nrcode: 1.8.4.1
+    path: MBFV/EHVG/BANV
+    scientific_name: Banzi virus
+    strain: SAH 336
+    taxid: '38837'
+entries: 87
+ifile: !!perl/hash:Path::Class::File
+  dir: !!perl/hash:Path::Class::Dir
+    dirs:
+    - Flavivirus_RefSeq_20220621
+    file_spec_class: ~
+    volume: ''
+  file: Flavivirus_RefSeq_20220621.full.gb.genomes.tab
+  file_spec_class: ~
