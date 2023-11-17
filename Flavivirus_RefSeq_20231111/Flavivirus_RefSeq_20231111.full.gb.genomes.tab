@@ -1,0 +1,92 @@
+NC_043110.1	38837	1.8.4.1	MBFV/EHVG/BANV	MBFV	EHVG	BANV	0	10182	0	Banzi virus	Banzi virus strain SAH 336 polyprotein gene, complete cds.	South Africa	NA	SAH 336	NA	NA
+NC_040555.1	2050971	6.1.4.1	TV/TABVG/LuV	TV	TABVG	LuV	276	10451	609	Lumpfish flavivirus	Lumpfish flavivirus, complete genome.	Norway	2016	NA	Cyclopterus lumpus	AL V-1216
+NC_040589.1	1678179	7.1.20.1	UFV/UG/DCAV1	UFV	UG	DCAV1	18	11241	154	Diatom colony associated ssRNA virus 1	Diatom colony associated ssRNA virus 1 genomic RNA, complete genome.	NA	NA	NA	NA	NA
+NC_040610.1	1254420	4.2.7.1	ISFV/dISFVG/NANV	ISFV	dISFVG	NANV	106	10299	399	Nanay virus	Nanay virus strain PRD316/PER/09, complete genome.	NA	2009	PRD316/PER/09	NA	NA
+NC_040645.1	2304510	4.1.23.1	ISFV/cISFVG/CxFLV	ISFV	cISFVG	CxFLV	146	10020	443	Culex Flavi-like virus	Culex Flavi-like virus strain CFVL/San Francisco, complete genome.	USA	02-Jul-2016	CFVL/San Francisco	Culex sp. (mosquito)	NA
+NC_040682.1	1244563	4.1.12.1	ISFV/cISFVG/CTFV	ISFV	cISFVG	CTFV	343	9825	112	Culex theileri flavivirus	Culex theileri flavivirus, complete genome.	Indonesia	21-Jan-1981	JKT-8650	Anopheles vagus	NA
+NC_040776.1	64315	1.5.1.1	MBFV/NTAVG/ROCV	MBFV	NTAVG	ROCV	92	10278	424	Rocio virus	Rocio virus strain SPH 34675, complete genome.	NA	NA	SPH 34675	NA	NA
+NC_040788.1	2045186	4.2.11.1	ISFV/dISFVG/KPKV	ISFV	dISFVG	KPKV	0	10311	0	Kampung Karu virus	Kampung Karu virus isolate SWK_P44, complete genome.	Malaysia: Sarawak, Kuching district, Kampung Karu	16-Oct-2013	NA	Anopheles tessellatus	SWK_P44
+NC_039218.1	33743	2.1.13.1	TBFV/MTBVG/KFDV	TBFV	MTBVG	KFDV	0	10251	125	Kyasanur Forest disease virus	Kyasanur forest disease virus polyprotein gene, complete cds.	NA	NA	NA	NA	NA
+NC_039219.1	64288	2.1.6.1	TBFV/MTBVG/RFV	TBFV	MTBVG	RFV	0	10254	0	Royal Farm virus	Royal Farm virus from Afghanistan polyprotein gene, complete cds.	Afghanistan	NA	NA	NA	NA
+NC_035889.1	64320	1.6.2.1	MBFV/SPOVG/ZIKV	MBFV	SPOVG	ZIKV	107	10272	429	Zika virus	Zika virus isolate ZIKV/H. sapiens/Brazil/Natal/2015, complete genome.	Brazil: Rio Grande do Norte, Natal	2015	Natal RGN	Homo sapiens	NA
+NC_035187.1	1969400	4.1.20.1	ISFV/cISFVG/McPV	ISFV	cISFVG	McPV	0	10026	0	Mac Peak virus	Mac Peak virus isolate McPV 150840 polyprotein gene, complete cds.	Australia: Cairns	2005	NA	Anopheles farauti	McPV 150840
+NC_035118.1	1969397	4.1.21.1	ISFV/cISFVG/KRBV	ISFV	cISFVG	KRBV	115	10029	502	Karumba virus	Karumba virus isolate KRBV 1892, complete genome.	Australia: Karumba	24-Apr-2001	NA	Anopheles meraukensis	KRBV 1892
+NC_034151.1	577122	1.5.16.1	MBFV/NTAVG/THOV	MBFV	NTAVG	THOV	97	10284	556	T'Ho virus	T'Ho virus strain T'Ho-Mex07, complete genome.	Mexico: Yucatan State, Merida	2007	T'Ho-Mex07	Culex quinquefasciatus	NA
+NC_034242.1	1244565	4.1.13.1	ISFV/cISFVG/OCFVPT	ISFV	cISFVG	OCFVPT	64	10158	148	Ochlerotatus caspius flavivirus	Ochlerotatus caspius flavivirus isolate 1608 polyprotein gene, complete cds.	Turkey	03-Aug-2015	NA	Ochlerotatus caspius	1608
+NC_034204.1	1963247	4.1.16.1	ISFV/cISFVG/MFV	ISFV	cISFVG	MFV	103	10251	543	Menghai flavivirus	Menghai flavivirus isolate MHAedFV1, complete genome.	China: Menghai	01-Aug-2010	NA	mosquito	MHAedFV1
+NC_034007.1	64894	3.3.5.1	NKV/RBG/PPBV	NKV	RBG	PPBV	0	10131	0	Phnom Penh bat virus	Phnom Penh bat virus strain 30834_A38, complete genome.	Cambodia	1969	30834_A38	Cynopterus brachyotis angulatus	NA
+NC_034017.1	1821227	4.1.14.1	ISFV/cISFVG/XFV	ISFV	cISFVG	XFV	90	10245	549	Xishuangbanna aedes flavivirus	Xishuangbanna aedes flavivirus, complete genome.	China	02-Aug-2010	NA	Aedes albopictus	XSBNAeFV
+NC_034018.1	64319	1.3.9.1	MBFV/JEVG/YAOV	MBFV	JEVG	YAOV	0	10293	0	Yaounde virus	Yaounde virus strain Dak Ar Y276 polyprotein gene, complete cds.	Cameroon	NA	Dak Ar Y276	NA	NA
+NC_033693.1	64295	1.8.3.1	MBFV/EHVG/BOUV	MBFV	EHVG	BOUV	0	10173	0	Bouboui virus	Bouboui virus strain DAK AR B490 polyprotein gene, complete cds.	Central African Republic	NA	DAK AR B490	NA	NA
+NC_033694.1	1302179	4.1.11.1	ISFV/cISFVG/PCV	ISFV	cISFVG	PCV	0	10095	0	Palm Creek virus	Palm Creek virus isolate 56 polyprotein gene, complete cds.	Australia	2010	NA	Coquillettidia xanthogaster	56
+NC_033697.1	64284	1.8.6.1	MBFV/EHVG/SABV	MBFV	EHVG	SABV	0	10173	0	Saboya virus	Saboya virus strain Dak AR D4600 polyprotein gene, complete cds.	Senegal	NA	Dak AR D4600	NA	NA
+NC_033698.1	64297	1.8.7.1	MBFV/EHVG/UGSV	MBFV	EHVG	UGSV	0	10182	0	Uganda S virus	Uganda S virus polyprotein gene, complete cds.	Uganda	NA	NA	NA	NA
+NC_033699.1	64309	1.8.5.1	MBFV/EHVG/JUGV	MBFV	EHVG	JUGV	0	10173	0	Jugra virus	Jugra virus strain P-9-314 polyprotein gene, complete cds.	Malaysia	NA	P-9-314	NA	NA
+NC_033715.1	486494	4.2.1.1	ISFV/dISFVG/NOUV	ISFV	dISFVG	NOUV	79	10329	347	Nounane virus	Nounane virus polyprotein mRNA, complete cds.	Cote d'Ivoire	NA	Nounane_B3	Uranotaenia mashonaensis	NA
+NC_033721.1	35279	2.2.2.1	TBFV/STBVG/MEAV	TBFV	STBVG	MEAV	0	10266	0	Meaban virus	Meaban virus from France polyprotein gene, complete cds.	France	NA	NA	NA	NA
+NC_033723.1	64307	2.1.9.1	TBFV/MTBVG/GGV	TBFV	MTBVG	GGV	0	10251	0	Gadgets Gully virus	Gadgets Gully virus from Australia polyprotein gene, complete cds.	Australia: Macquarie Island	NA	NA	NA	NA
+NC_033724.1	64310	2.3.1.1	TBFV/KVG/KADV	TBFV	KVG	KADV	0	10215	0	Kadam virus	Kadam virus from Uganda polyprotein gene, complete cds.	Uganda	NA	NA	NA	NA
+NC_033725.1	1805494	1.8.2.1	MBFV/EHVG/BGV	MBFV	EHVG	BGV	0	10203	0	Bamaga virus	Bamaga virus isolate CY4270 polyprotein gene, complete cds.	Australia	2001	NA	Culex sitiens subgroup	CY4270
+NC_033726.1	40012	2.2.4.1	TBFV/STBVG/SREV	TBFV	STBVG	SREV	0	10269	0	Saumarez Reef virus	Saumarez Reef virus from Australia polyprotein gene, complete cds.	Australia: Queensland	NA	NA	NA	NA
+NC_032088.1	499854	1.4.2.1	MBFV/KOKVG/NMV	MBFV	KOKVG	NMV	88	10230	546	New Mapoon virus	New Mapoon virus, complete cds.	Australia: New Mapoon	1998	CY1014	mosquito	NA
+NC_031327.1	1903340	4.1.17.1	ISFV/cISFVG/AnFV	ISFV	cISFVG	AnFV	107	10026	455	Anopheles flavivirus	Anopheles flavivirus variant 1, complete genome.	Liberia	2013	NA	Anopheles gambiae	NA
+NC_029054.2	64314	1.8.8.1	MBFV/EHVG/POTV	MBFV	EHVG	POTV	0	10173	0	Potiskum virus	Potiskum virus strain IBAN 10069 polyprotein gene, complete cds.	Nigeria	NA	IBAN 10069	NA	NA
+NC_030400.1	667516	4.1.10.1	ISFV/cISFVG/NAKV	ISFV	cISFVG	NAKV	0	10122	0	Nakiwogo virus	Nakiwogo virus strain Uganda08 polyprotein gene, partial cds.	Uganda	2008	Uganda08	Mansonia africana nigerrima voucher H4A1	NA
+NC_030401.1	1125677	4.1.6.1	ISFV/cISFVG/HANV	ISFV	cISFVG	HANV	0	10158	0	Hanko virus	Hanko virus polyprotein gene, complete cds.	Finland	Aug-2005	NA	mosquito	NA
+NC_030289.1	64296	1.8.1.1	MBFV/EHVG/EHV	MBFV	EHVG	EHV	0	10206	0	Edge Hill virus	Edge Hill virus strain YMP 48 polyprotein gene, complete cds.	Australia	NA	YMP 48	NA	NA
+NC_030290.1	1821222	4.1.15.1	ISFV/cISFVG/CFV	ISFV	cISFVG	CFV	91	10191	582	Culiseta flavivirus	Culiseta flavivirus strain 502-13, complete genome.	USA: Willington, Connecticut	06-Jun-2013	502-13	Culiseta melanura	NA
+NC_029055.1	64318	1.6.1.1	MBFV/SPOVG/SPOV	MBFV	SPOVG	SPOV	0	10290	0	Spondweni virus	Spondweni virus, complete genome.	South Africa	NA	SM-6 V-1	NA	NA
+NC_027999.1	1566298	4.2.14.1	ISFV/dISFVG/EPEV	ISFV	dISFVG	EPEV	119	10326	316	Paraiso Escondido virus	Paraiso Escondido virus isolate Ecuador2012, complete genome.	Ecuador	2012	NA	Psathyromyia abonnenci	Ecuador2012
+NC_027817.1	1708654	4.1.4.1	ISFV/cISFVG/PaRV	ISFV	cISFVG	PaRV	109	10155	629	Parramatta River virus	Parramatta River virus isolate 92-B115745, complete genome.	Australia	2007	NA	NA	92-B115745
+NC_027819.1	1708574	4.1.5.1	ISFV/cISFVG/MECDV	ISFV	cISFVG	MECDV	88	10212	638	Mercadeo virus	Mercadeo virus isolate ER-M10, complete genome.	Panama	2011	NA	Culex sp.	ER-M10
+NC_027709.1	1691889	2.1.14.1	TBFV/MTBVG/SGEV	TBFV	MTBVG	SGEV	132	10245	493	Spanish goat encephalitis virus	Spanish goat encephalitis virus isolate AstGoatIREC2011, complete genome.	Spain	2011	NA	Bermeya goat	AstGoatIREC2011
+NC_026620.1	64299	3.2.3.1	NKV/MODVG/JUTV	NKV	MODVG	JUTV	0	10125	0	Jutiapa virus	Jutiapa virus strain JG-128, complete genome.	Guatemala	1969	JG-128	Sigmodon hispidus	NA
+NC_026623.1	64305	1.3.8.1	MBFV/JEVG/CPCV	MBFV	JEVG	CPCV	0	10284	0	Cacipacore virus	Cacipacore virus flavivirus polyprotein (flavivirus polyprotein gene) and truncated polyprotein (flavivirus polyprotein gene) genes, complete cds.	Brazil	1977	BeAn 3276000	Formicarius analis	NA
+NC_026624.1	64317	3.1.3.1	NKV/ENTVG/SOKV	NKV	ENTVG	SOKV	0	10242	0	Sokoluk virus	Sokoluk virus strain LEIV-400K, complete genome.	Kyrgyzstan	1970	LEIV-400K	Pipistrellus pipistrellus	NA
+NC_024805.1	1445557	4.2.9.1	ISFV/dISFVG/ILOV	ISFV	dISFVG	ILOV	9	10356	0	Ilomantsi virus	Ilomantsi virus isolate M0724 polyprotein gene, complete cds.	Finland	Aug-2007	NA	mosquito	M0724
+NC_024806.1	649187	4.2.5.1	ISFV/dISFVG/LAMV	ISFV	dISFVG	LAMV	15	10305	0	Lammi virus	Lammi virus isolate M0719 polyprotein gene, complete cds.	Finland	Aug-2007	Mekrijarvi 2007	mosquito	M0719
+NC_024299.2	1286143	4.1.18.1	ISFV/cISFVG/NIEV	ISFV	cISFVG	NIEV	98	10071	709	Nienokoue virus	Nienokoue virus isolate B51/CI/2004, complete genome.	Cote d'Ivoire	2004	NA	Culex sp.	B51/CI/2004
+NC_024017.1	1485186	4.2.8.1	ISFV/dISFVG/NHUV	ISFV	dISFVG	NHUV	102	10338	451	Nhumirim virus	Nhumirim virus strain BrMS-MQ10, complete genome.	Brazil: Nhecolandia Sub-region of Pantanal, Corumba, Mato Grosso do Sul	17-Oct-2010	BrMS-MQ10	Culex chidesteri	NA
+NC_023439.1	1456752	2.2.3.1	TBFV/STBVG/KAMV	TBFV	STBVG	KAMV	146	10260	282	Kama virus	Kama virus strain LEIV-20776Tat polyprotein gene, complete cds.	Russia: islands of Kuybyshev Reservoir, Kuybyshev Sea, East European Plain	1989	LEIV-20776Tat	Ixodes lividus	NA
+NC_023424.1	40004	2.2.1.1	TBFV/STBVG/TYUV	TBFV	STBVG	TYUV	131	10269	273	Tyuleniy virus	Tyuleniy virus strain LEIV-6C polyprotein gene, complete cds.	Russia: far East, Sea of Okhotsk; Tyuleniy island	1969	LEIV-6C	Ixodes uriae	NA
+NC_021069.1	673515	4.1.8.1	ISFV/cISFVG/MSFV	ISFV	cISFVG	MSFV	111	10080	674	Mosquito flavivirus	Mosquito flavivirus isolate LSFlaviV-A20-09, complete genome.	China	Jul-2009	NA	Culex tritaeniorhynchus	LSFlaviV-A20-09
+NC_018705.3	64292	1.5.3.1	MBFV/NTAVG/NTAV	MBFV	NTAVG	NTAV	94	10284	565	Ntaya virus	Ntaya virus, complete cds.	NA	1966	NA	NA	IPDIA
+NC_017086.1	631267	4.2.2.1	ISFV/dISFVG/CHAOV	ISFV	dISFVG	CHAOV	99	10308	326	Chaoyang virus	Chaoyang virus, complete genome.	China	2010	NA	mosquito	HLD115
+NC_016997.1	985683	4.2.4.1	ISFV/dISFVG/DONV	ISFV	dISFVG	DONV	113	10335	343	Donggang virus	Donggang virus, complete genome.	China	2009	NA	Aedes sp. (mosquito)	DG0909
+NC_015843.2	64293	1.5.5.1	MBFV/NTAVG/TMUV	MBFV	NTAVG	TMUV	94	10278	618	Tembusu virus	Tembusu virus flavivirus polyprotein (flavivirus polyprotein gene) gene, complete cds.	China	Sep-2010	JS804	goose	NA
+NC_012932.1	390845	4.1.3.1	ISFV/cISFVG/AEFV	ISFV	cISFVG	AEFV	96	10026	942	Aedes flavivirus	Aedes flavivirus genomic RNA, complete genome, strain: Narita-21.	Japan:Chiba, Narita	2003	Narita-21	Aedes albopictus	NA
+NC_012735.1	164416	1.7.3.1	MBFV/YFVG/WESSV	MBFV	YFVG	WESSV	118	10218	478	Wesselsbron virus	Wesselsbron virus strain SAH177, complete genome.	South Africa	NA	SAH177	NA	NA
+NC_012671.1	643132	4.1.7.1	ISFV/cISFVG/QBV	ISFV	cISFVG	QBV	112	10080	673	Quang Binh virus	Quang Binh virus, complete genome.	Viet Nam	Aug-2002	NA	Culex tritaeniorhynchus (mosquito)	VN180
+NC_012532.1	64320	1.6.2.2	MBFV/SPOVG/ZIKV	MBFV	SPOVG	ZIKV	106	10260	428	Zika virus	Zika virus, complete genome.	Uganda	NA	MR 766	sentinel monkey	NA
+NC_012533.1	64311	1.2.5.1	MBFV/DENVG/KEDV	MBFV	DENVG	KEDV	106	10227	390	Kedougou virus	Kedougou virus strain DakAar D1470, complete genome.	Senegal	NA	DakAar D1470	mosquito	NA
+NC_012534.1	64290	1.5.4.1	MBFV/NTAVG/BAGV	MBFV	NTAVG	BAGV	94	10281	566	Bagaza virus	Bagaza virus strain DakAr B209, complete genome.	Central African Republic	NA	DakAr B209	mosquito	NA
+NC_009942.1	11082	1.3.2.1	MBFV/JEVG/WNV	MBFV	JEVG	WNV	96	10302	631	West Nile virus	West Nile virus lineage 1, complete genome.	USA	NA	NY99	NA	385-99
+NC_009026.2	64303	1.1.1.1	MBFV/AROVG/AROAV	MBFV	AROVG	AROAV	104	10290	421	Aroa virus	Bussuquara virus, complete genome.	NA	NA	Bussuquara virus	NA	BeAn 4073
+NC_009028.2	59563	1.5.2.1	MBFV/NTAVG/ILHV	MBFV	NTAVG	ILHV	92	10275	388	Ilheus virus	Ilheus virus, complete genome.	NA	NA	Original	NA	NA
+NC_009029.2	44024	1.4.1.1	MBFV/KOKVG/KOKV	MBFV	KOKVG	KOKV	83	10233	558	Kokobera virus	Kokobera virus, complete genome.	NA	NA	AusMRM 32	NA	NA
+NC_008718.1	64283	3.1.1.1	NKV/ENTVG/ENTV	NKV	ENTVG	ENTV	119	10236	155	Entebbe bat virus	Entebbe bat virus, complete genome.	Uganda	NA	UgIL-30	bat	NA
+NC_008719.1	44026	1.7.4.1	MBFV/YFVG/SEPV	MBFV	YFVG	SEPV	116	10218	459	Sepik virus	Sepik virus, complete genome.	Papua New Guinea	NA	MK7148	mosquito	NA
+NC_008604.2	390844	4.1.1.1	ISFV/cISFVG/CxFV	ISFV	cISFVG	CxFV	91	10092	654	Culex flavivirus	Culex flavivirus, complete genome.	Japan:Tokyo, Shinjuku	2003	Tokyo	NA	NA
+NC_007580.2	11080	1.3.3.1	MBFV/JEVG/SLEV	MBFV	JEVG	SLEV	98	10293	549	Saint Louis encephalitis virus	Saint Louis encephalitis virus, complete genome.	USA	NA	Kern217	NA	NA
+NC_006551.1	64286	1.3.7.1	MBFV/JEVG/USUV	MBFV	JEVG	USUV	96	10305	665	Usutu virus	Usutu virus, complete cds.	Austria	NA	Vienna 2001	NA	NA
+NC_005064.1	218849	4.1.9.1	ISFV/cISFVG/KRV	ISFV	cISFVG	KRV	96	10074	1208	Kamiti River virus	Kamiti River virus, complete genome.	NA	NA	NA	NA	SR-82
+NC_005062.1	12542	2.1.7.1	TBFV/MTBVG/OHFV	TBFV	MTBVG	OHFV	132	10245	410	Omsk hemorrhagic fever virus	Omsk hemorrhagic fever virus, complete genome.	NA	NA	Bogoluvovska	NA	NA
+NC_005039.1	64294	3.1.2.1	NKV/ENTVG/YOKV	NKV	ENTVG	YOKV	150	10278	429	Yokose virus	Yokose virus, complete genome.	NA	NA	Oita 36	NA	NA
+NC_004119.1	64312	3.3.4.1	NKV/RBG/MMLV	NKV	RBG	MMLV	108	10125	460	Montana myotis leukoencephalitis virus	Montana myotis leukoencephalitis virus, complete genome.	USA:Montana	NA	NA	NA	NA
+NC_003996.1	161675	6.1.1.1	TV/TABVG/TABV	TV	TABVG	TABV	0	10053	0	Tamana bat virus	Tamana bat virus, genome.	Trinidad and Tobago: Tamana cave	NA	NA	Pteronotus parnellii	NA
+NC_003635.1	64300	3.2.4.1	NKV/MODVG/MODV	NKV	MODVG	MODV	109	10125	366	Modoc virus	Modoc virus, complete genome.	USA:Modoc county	NA	M544	NA	NA
+NC_002640.1	11070	1.2.4.1	MBFV/DENVG/DENV4	MBFV	DENVG	DENV4	101	10164	384	Dengue virus 4	Dengue virus 4, complete genome.	NA	NA	NA	NA	NA
+NC_003690.1	11085	2.1.1.1	TBFV/MTBVG/LGTV	TBFV	MTBVG	LGTV	130	10245	568	Langat virus	Langat virus, complete genome.	NA	NA	TP21	NA	NA
+NC_003676.1	64280	3.2.1.1	NKV/MODVG/APOIV	NKV	MODVG	APOIV	0	10116	0	Apoi virus	Apoi virus, genome.	NA	NA	ApMAR	NA	NA
+NC_003675.1	64285	3.3.6.1	NKV/RBG/RBV	NKV	RBG	RBV	0	10140	0	Rio Bravo virus	Rio Bravo virus, genome.	NA	NA	RiMAR	NA	NA
+NC_000943.1	11079	1.3.6.1	MBFV/JEVG/MVEV	MBFV	JEVG	MVEV	95	10305	614	Murray Valley encephalitis virus	Murray Valley encephalitis virus, complete genome.	NA	NA	NA	NA	NA
+NC_001809.1	11086	2.1.12.1	TBFV/MTBVG/LIV	TBFV	MTBVG	LIV	129	10245	497	Louping ill virus	Louping ill virus, complete genome.	NA	NA	369/T2	NA	NA
+NC_001477.1	11053	1.2.1.1	MBFV/DENVG/DENV1	MBFV	DENVG	DENV1	94	10179	462	Dengue virus 1	Dengue virus 1, complete genome.	NA	NA	NA	NA	NA
+NC_001672.1	11084	2.1.11.1	TBFV/MTBVG/TBEV	TBFV	MTBVG	TBEV	132	10245	764	Tick-borne encephalitis virus	Tick-borne encephalitis virus, complete genome.	NA	NA	NA	NA	NA
+NC_001563.2	11082	1.3.2.2	MBFV/JEVG/WNV	MBFV	JEVG	WNV	96	10293	573	West Nile virus	West Nile virus lineage 2, complete genome.	NA	NA	956	NA	NA
+NC_001564.2	31658	4.1.2.1	ISFV/cISFVG/CFAV	ISFV	cISFVG	CFAV	103	10026	553	Cell fusing agent virus	Cell fusing agent virus strain Galveston, complete genome.	USA	2012	Galveston	Aedes aegypti Galveston colony	NA
+NC_001437.1	11072	1.3.1.1	MBFV/JEVG/JEV	MBFV	JEVG	JEV	95	10299	582	Japanese encephalitis virus	Japanese encephalitis virus, genome.	NA	NA	NA	NA	NA
+NC_001474.2	11060	1.2.2.1	MBFV/DENVG/DENV2	MBFV	DENVG	DENV2	96	10176	451	Dengue virus 2	Dengue virus 2, complete genome.	Thailand	1964	16681	NA	NA
+NC_001475.2	11069	1.2.3.1	MBFV/DENVG/DENV3	MBFV	DENVG	DENV3	94	10173	440	Dengue virus 3	Dengue virus 3, complete genome.	Sri Lanka	NA	NA	NA	D3/H/IMTSSA-SRI/2000/1266
+NC_003687.1	11083	2.1.10.1	TBFV/MTBVG/POWV	TBFV	MTBVG	POWV	111	10248	480	Powassan virus	Powassan virus, complete genome.	NA	NA	LB	NA	NA
+NC_002031.1	11089	1.7.2.1	MBFV/YFVG/YFV17D	MBFV	YFVG	YFV17D	118	10236	508	Yellow fever virus 17D	Yellow fever virus, complete genome.	NA	NA	17D vaccine strain	NA	NA
